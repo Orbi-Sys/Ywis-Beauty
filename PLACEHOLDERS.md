@@ -124,11 +124,6 @@ PLACEHOLDER_GOOGLE_VERIFICATION
 - Größe: 800x600px
 - Format: JPG
 - Zweck: Bild auf Leistungen-Seite (Wimpern Lifting)
-
-/images/about-hero.jpg
-- Größe: 800x600px
-- Format: JPG
-- Zweck: Bild auf Über-Mich Seite
 ```
 
 ### Galeriebilder
