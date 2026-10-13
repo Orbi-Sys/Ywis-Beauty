@@ -76,9 +76,7 @@ desktop.ini
 /_backup/
 
 # Generated Files
-sitemap.xml
 sitemap.xml.gz
-robots.txt
 
 # IDE specific
 .vscode/settings.json
