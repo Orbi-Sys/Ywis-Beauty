@@ -1,0 +1,9 @@
+# Interne Projektdateien, die nicht öffentlich ausgeliefert werden sollen
+README.md
+QUICK-START.md
+PLACEHOLDERS.md
+PROJECT_SUMMARY.txt
+
+# Original-Grafiken (die Website nutzt die Versionen in /images)
+Banner_Ywis-Beauty.jpeg
+Logo_Ywis-Beauty.jpeg
